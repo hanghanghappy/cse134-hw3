@@ -1,0 +1,25 @@
+main{
+    text-align: center;
+    list-style-position: inside;
+}
+#about-me-pic{
+    padding: 20px;
+}
+#about-me-text{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+ul{
+    padding-right: 20px;
+}
+video{
+    padding: 10px;
+}
+@media screen and (max-width: 768px) {
+    video {
+      width: 75%;
+    }
+}
+audio{
+    padding: 10px;
+}
